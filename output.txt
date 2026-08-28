@@ -86,18 +86,18 @@ Cart contents:
 Total: $824.98
 
 ================================================================================
-  STEP 6 - PRODUCT SEARCH
+  STEP 6 - ADVANCED PRODUCT SEARCH
 ================================================================================
-Search: 'laptop'
+Search: 'laptop' (Price: $0.0 - $2000.0)
   Found: ID: 101 | Name: Gaming Laptop | Price: $1499.99 | Category: Electronics | Physical | Stock: 10 | Weight: 2.4kg
-Search: 'python'
-  Found: ID: 105 | Name: Python Programming Book | Price: $59.99 | Category: Books | Physical | Stock: 8 | Weight: 0.7kg
-Search: 'headphones'
-  Found: ID: 103 | Name: Wireless Headphones | Price: $149.99 | Category: Accessories | Physical | Stock: 30 | Weight: 0.3kg
-Search: 'machine'
-  Found: ID: 202 | Name: Machine Learning Guide | Price: $24.99 | Category: E-Books | Digital | Format: PDF | Size: 12.8MB
-Search: 'bla_bla_bla'
-  No product found.
+Search: 'python' (Price: $0.0 - $50.0)
+  Found: ID: 201 | Name: Python Programming Course | Price: $29.99 | Category: E-Books | Digital | Format: MP4 | Size: 850.5MB
+Search: 'headphones' (Price: $100.0 - $140.0)
+  No product found matching criteria.
+Search: 'machine' (Price: $0.0 - $10.0)
+  No product found matching criteria.
+Search: 'bla_bla_bla' (Price: $0.0 - $1000.0)
+  No product found matching criteria.
 
 ================================================================================
   STEP 7 - PRODUCT UPDATE
@@ -212,6 +212,16 @@ Categories : 4
 Products   : 7
 Customers  : 4
 Orders     : 4
+
+================================================================================
+  SMART SYSTEM ANALYTICS REPORT (Added by System Engineer)
+================================================================================
+Total Registered Customers : 4
+Total Products in Catalog  : 7
+Total Orders Processed   : 4
+Total Valid Revenue      : $1,404.91
+Top Spender              : Sara ($824.98)
+================================================================================
 
 ================================================================================
   DEMO COMPLETED SUCCESSFULLY
