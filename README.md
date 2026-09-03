@@ -85,7 +85,6 @@ python main.py
 ## 7. Restrictions Followed
 
 ```py
-input()          ❌ not used anywhere
 Database / SQL   ❌ not used
 Flask / Django   ❌ not used
 GUI              ❌ not used
